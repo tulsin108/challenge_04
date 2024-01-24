@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-/* Style.css */
 
-* { 
+{ 
 	font-family: Verdana, Geneva, Tahoma, sans-serif ;
   background-color: #c5e6ec;
 } 
@@ -21,7 +19,6 @@
   border-color: #62c4b7;
   font-weight: bold;
 	position: absolute;
-  text-shadow: 0.5px 0.5px #1a232d;
   text-decoration:double;
 	top: 50%; 
 	left: 50%; 
@@ -118,7 +115,6 @@ li:nth-child(odd) {
 		max-width: 90%; 
 	} 
 }
-=======
 body {
     font-family: sans-serif;
     margin: 0;
