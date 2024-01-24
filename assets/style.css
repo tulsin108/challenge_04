@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Style.css */
 
 * { 
@@ -117,3 +118,39 @@ li:nth-child(odd) {
 		max-width: 90%; 
 	} 
 }
+=======
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  #timer {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  #question-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #results {
+    display: none;
+    text-align: center;
+  }
+  
+  button {
+    margin: 10px auto;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
+>>>>>>> 4018eeb1a808dff83e8a51f6921e82f768850563
